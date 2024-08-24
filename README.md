@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple **Login Page** designed using HTML and CSS. It simulates the front page of a website where users can enter their credentials to log in. The page includes fields for the username and password, a "Remember Me" checkbox, a "Forgot Password" link, a "Login" button, and a link to register a new account if you don't have an account.
+This project is a simple **Login Page** designed using HTML and CSS. It simulates the front page of a website where users can enter their credentials to log in. The page includes fields for the username and password, a "Remember Me" checkbox, a "Forgot Password" link, a "Login" button, and a link to register a new account if you don't have any account.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project is a simple **Login Page** designed using HTML and CSS. It simulate
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Yukta2107/Login-page.git
+    git clone https://github.com/YuktaRani/Login-page.git
     ```
 2. Navigate to the project directory:
     ```bash
